@@ -44,7 +44,7 @@
     <string name="settings_doublecardrawing">Desenhar carro duplo</string>
     <string name="settings_drawwatersparkle">Desenhar brilho da água</string>
     <string name="settings_drawmapedges">Desenhar bordas do mapa</string>
-    <string name="settings_hideads_title">Tirar anúncios</string>
+    <string name="settings_hideads_title">Remover anúncios</string>
     <string name="settings_hideads_text">
     Se você realmente quiser ocultar anúncios, então seria bom nos apoiar dizendo a seus amigos sobre o aplicativo. \n\nTem certeza?
     </string>
@@ -228,7 +228,7 @@
     <string name="topic_trolls">Não alimente os Trolls</string>
     <string name="settings_reversedbuildtool">Movimento invertido na ferramenta de construção</string>
     <string name="draft_karlsruhecastle00_title">Palácio de Karlsruhe</string>
-    <string name="draft_karlsruhecastle00_text">Os turistas irão adorar.</string>
+    <string name="draft_karlsruhecastle00_text">Os turistas vão adorar.</string>
     <string name="shader_old">Antigo</string>
     <string name="topic_narcissistic">Não se importe com pessoas narcísicas</string>
     <string name="topic_great">Eu curto você!</string>
@@ -240,13 +240,13 @@
     Parabéns, sua cidade excede o tamanho de %1$,d habitantes!
     </string>
     <string name="game_placedprice">%1$s</string>
-    <string name="draft_waterfountain01_title">Fonte de agua</string>
+    <string name="draft_waterfountain01_title">Fonte de água</string>
     <string name="draft_waterfountain01_text">Habitantes vão gostar.</string>
     <string name="draft_treepark01_title">Parque de árvore</string>
     <string name="draft_treepark01_text">
     Um pequeno parque com árvores. Seus habitantes vão gostar.
     </string>
-    <string name="buildinginfo_res0">Residencial Ͳ</string>
+    <string name="buildinginfo_res0">Residêncial Ͳ</string>
     <string name="buildinginfo_com0">Comercial Ͳ</string>
     <string name="buildinginfo_ind0">Industrial Ͳ</string>
     <string name="buildinginfo_res1">Residencial ͲͲ</string>
@@ -266,7 +266,7 @@
     <string name="about_programming">Programação</string>
     <string name="about_graphics">Gráficos</string>
     <string name="about_music">Música</string>
-    <string name="about_engine">Motor do gráfico</string>
+    <string name="about_engine">Motor gráfico</string>
     <string name="draft_police00_title">Departamento de Polícia</string>
     <string name="draft_police00_text">Para mais segurança.</string>
     <string name="settings_showinfluencepreview">Mostrar visualização da influência</string>
@@ -289,7 +289,7 @@
     <string name="draft_terrainland_text">Coloque terra em seu mapa.</string>
     <string name="draft_tree00_title">Árvores</string>
     <string name="draft_tree00_text">Coloque árvores em seu mapa.</string>
-    <string name="draft_busstop00_title">Parada de ônibus</string>
+    <string name="draft_busstop00_title">Ponto de ônibus</string>
     <string name="draft_busstop00_text">
     A partir daqui os habitantes podem usar o ônibus para chegar a outras partes da cidade.
     </string>
@@ -298,7 +298,7 @@
     <string name="settings_orientationportrait">Retrato</string>
     <string name="settings_orientationauto">Automático</string>
     <string name="draft_busdepot00_title">Depósito de ônibus</string>
-    <string name="draft_busdepot00_text">Um depósito de ônibus é necessário para spawnar ônibus.</string>
+    <string name="draft_busdepot00_text">Um depósito de ônibus é necessário para ter ônibus.</string>
     <string name="settings_debugmode">Modo debug</string>
     <string name="unknown">Wurstbrot</string>
     <string name="draftselector_titleremove">Remover</string>
@@ -361,9 +361,9 @@
     <string name="buildinginfo_upgradenotavail">Não disponível</string>
     <string name="buildinginfo_upgrade">Melhoria(s)</string>
     <string name="draft_pool00_title">Piscina</string>
-    <string name="draft_pool00_text">Vamos para o novo banho ao ar livre.</string>
+    <string name="draft_pool00_text">Vamos nadar ao ar livre!</string>
     <string name="draft_pool00_waterslide_title">Toboáguas</string>
-    <string name="draft_pool00_waterslide_text">Água toboáguas e guarda-sóis.</string>
+    <string name="draft_pool00_waterslide_text">Toboáguas e guarda-sóis.</string>
     <string name="blank_text">Você está sendo anúnciado</string>
     <string name="draft_middlepark00_title">Parque médio</string>
     <string name="draft_middlepark00_text">Habitantes vão gostar.</string>
@@ -382,10 +382,10 @@
     Você não tem água suficiente. Talvez você deve construir novas bombas de água.
     </string>
     <string name="notify_religion">
-    Por favor, construa-nos mais edifícios religiosos?
+    Por favor, poderia ter mais edifícios religiosos?
     </string>
-    <string name="notify_park">Gostaríamos de ter mais parques.</string>
-    <string name="notify_sport">Queremos fazer esportes.</string>
+    <string name="notify_park">Gostaríamos de ter mais parques!</string>
+    <string name="notify_sport">Adoraríamos fazer esportes...</string>
     <string name="buildinginfo_happiness">Felicidade no geral: %1$.0f%%</string>
     <string name="notify_noenergy">Edifícios estão sem energia!</string>
     <string name="notify_nowater">Há edifícios sem água!</string>
@@ -407,12 +407,12 @@
     <string name="draft_radio00_text">Seus habitantes vão gostar do programa de rádio.</string>
     <string name="draftselector_cmdalert">Vão!</string>
     <string name="draft_alert_police00_title">Chamar polícia</string>
-    <string name="draft_alert_police00_text">Chame a polícia para parar criminosos.</string>
+    <string name="draft_alert_police00_text">Chame a polícia para deter criminosos.</string>
     <string name="draft_alert_fire00_title">Chamar bombeiros</string>
-    <string name="draft_alert_fire00_text">Chame os bombeiros se algo estiver queimando.</string>
-    <string name="draft_alert_medic00_title">Chame o Médico</string>
+    <string name="draft_alert_fire00_text">Chame os bombeiros se algo estiver em chamas.</string>
+    <string name="draft_alert_medic00_title">Chamar paramédicos</string>
     <string name="draft_alert_medic00_text">
-    Quando um acidente acontece você tem que chamar o médico.
+    Quando um acidente acontece, tem que pedir socorro.
     </string>
     <string name="buildinginfo_powerusage">Uso: %1$.01f%%</string>
     <string name="buildinginfo_waterusage">Uso: %1$.1f%%</string>
@@ -441,8 +441,8 @@
     <string name="settings_weather">Clima</string>
     <string name="topic_christmas">Feliz Natal!</string>
     <string name="topic_newyear">Feliz ano novo!</string>
-    <string name="topic_birthday_lobby">Feliz aniversário Lobby :)</string>
-    <string name="topic_birthday_theo">Feliz aniversário theo :)</string>
+    <string name="topic_birthday_lobby">Feliz aniversário, Lobby :)</string>
+    <string name="topic_birthday_theo">Feliz aniversário, theo :)</string>
     <string name="topic_np">P=NP?</string>
     <string name="topic_42">42</string>
     <string name="draft_radio00_news_title">Notícias</string>
@@ -561,7 +561,7 @@
     <string name="disaster_fire_cmdtext">Queime!</string>
     <string name="disaster_meteorite_title">Meteorito</string>
     <string name="disaster_meteorite_text">Deixe um meteorito cair do céu.</string>
-    <string name="disaster_meteorite_cmdtext">Voe pequeno bebê</string>
+    <string name="disaster_meteorite_cmdtext">Voe meu pequenino</string>
     <string name="disaster_earthquake_title">Terremoto</string>
     <string name="disaster_earthquake_text">Deixe o chão tremer.</string>
     <string name="disaster_earthquake_cmdtext">Agite!</string>
@@ -610,11 +610,11 @@
     <string name="draft_zonefarm_text">
     Uma zona barata para edifícios agrícolas. Tamanho mínimo para as fazendas é 4x4.
     </string>
-    <string name="requirement_peoplecount_all">Necessidade: Uma população de %1$,d</string>
-    <string name="requirement_peoplecount_poor">Necessidade: Uma população pobre de %1$,d</string>
-    <string name="requirement_peoplecount_middle">Necessidade: Uma população de classe média de %1$,d</string>
-    <string name="requirement_peoplecount_rich">Necessidade: Uma população rica de %1$,d</string>
-    <string name="requirement_building">Nessesidade: %1$s</string>
+    <string name="requirement_peoplecount_all">Necessário: Uma população de %1$,d</string>
+    <string name="requirement_peoplecount_poor">Necessário: Uma população pobre de %1$,d</string>
+    <string name="requirement_peoplecount_middle">Necessário: Uma população de classe média de %1$,d</string>
+    <string name="requirement_peoplecount_rich">Necessário: Uma população rica de %1$,d</string>
+    <string name="requirement_building">Nessesário: %1$s</string>
     <string name="draftselector_onlyone">Só pode ser construído uma vez</string>
     <string name="draftselector_onlyn">Só pode ser construído %1$,d vezes</string>
     <string name="draft_church02_title">Pequena Igreja</string>
@@ -882,8 +882,8 @@
     <string name="draft_alert_swat00_text">Se houver um tumulto apenas as equipes SWAT podem detê-los.</string>
     <string name="control_continue">Continuar</string>
     <string name="settings_winter">Inverno</string>
-    <string name="notify_riot_noreason">Há um tumulto sem motivo!</string>
-    <string name="notify_riot_reason">Há um tumulto por causa de %1$s!</string>
+    <string name="notify_riot_noreason">Estão tumultuando sem motivo!</string>
+    <string name="notify_riot_reason">Estão tumultuando por causa de %1$s!</string>
     <string name="draft_marker_powermarker_title">Energia</string>
     <string name="draft_road04_text">Uma estrada agradável com árvores.</string>
     <string name="draft_marker_watermarker_title">Água</string>
@@ -941,7 +941,7 @@
     <string name="draft_zonemilitary_title">Área militar</string>
     <string name="draft_mltry_tankbase00_title">Base do tanque</string>
     <string name="draft_mltry_hq00_title">Quartel general</string>
-    <string name="draft_mltry_baracks00_title">Barracas</string>
+    <string name="draft_mltry_baracks00_title">Dormitórios</string>
     <string name="draft_firedepartment02_heli00_text">Helicópteros podem pousar e começar aqui.\n\nAumenta o alcance do corpo de bombeiros.</string>
     <string name="settings_reset_text">Todas as configurações serão perdidas. Você tem certeza?</string>
     <string name="settings_reset_title">Redefinir configurações</string>
@@ -966,19 +966,19 @@
     <string name="settings_hide_rank_features">Ocultar atualizações de rank</string>
     <string name="draftselector_titleairport">Aeroporto</string>
     <string name="disaster_ufo_title">OVNI</string>
-    <string name="disaster_ufo_text">Um OVNI ataca sua cidade!</string>
+    <string name="disaster_ufo_text">Um OVNI está atacando sua cidade!</string>
     <string name="disaster_ufo_cmdtext">Selecionar alvo</string>
     <string name="topic_theons">Temos uma nova moeda: Theons Ͳ</string>
-    <string name="topic_wip">Trabalho em progresso. Não passe dos limites.</string>
+    <string name="topic_wip">Trabalho em progresso.Só não passe dos limites.</string>
     <string name="topic_belong">Suas cidades pertencem a nós >:D</string>
     <string name="topic_love">Tudo que você precisa é de amor</string>
-    <string name="topic_build">Vou construir minha própria cidade com arranha-céus e parques</string>
-    <string name="topic_news">Boa notícia a todos</string>
+    <string name="topic_build">Vou construir minha própria cidade com arranha-céus e parques!</string>
+    <string name="topic_news">Trago boas notícias</string>
     <string name="topic_welcome">Bem-vindo de volta :)</string>
     <string name="topic_spoon">Irineu você não sabe nem eu</string>
     <string name="topic_relax">Relaxe, é só um jogo</string>
-    <string name="topic_cats">Gatos são tão fofinhooos</string>
-    <string name="topic_force">Que a força esteja com você</string>
+    <string name="topic_cats">Gatinhos são tãooo fofinhooos :3</string>
+    <string name="topic_force">Que a força esteja com você!</string>
     <string name="topic_plugins">Agora você tem plugins</string>
     <string name="topic_page">Visite-nós em www.theotown.com</string>
     <string name="topic_habitants">Você pode atingir 1,000,000</string>
@@ -997,10 +997,10 @@
     <string name="control_off">Off</string>
     <string name="draft_school03_title">Grande colégio</string>
     <string name="draft_school03_text">Um colégio maior para mais alunos.</string>
-    <string name="gamemode_sandbox_desc">Use este modo de jogo para brincar sem dinheiro. Não tem ranks e menos conquistas.</string>
+    <string name="gamemode_sandbox_desc">Use este modo de jogo para jogar sem dinheiro. Não tem ranks e menos conquistas.</string>
     <string name="gamemode_easy_desc">Neste modo de jogo você começa com um monte de dinheiro e é um pouco mais fácil em geral.</string>
     <string name="gamemode_middle_desc">Modo de jogo padrão. Você começa com uma boa quantidade de dinheiro e não deve ser muito difícil construir a cidade de seus sonhos.</string>
-    <string name="gamemode_hard_desc">Você é um profissional em TheoTown? Então este é o modo certo para você. Você começa com uma pequena quantia de dinheiro e é difícil em geral.</string>
+    <string name="gamemode_hard_desc">Você é um profissional em TheoTown? Então é perfeito para você! Você começa com uma pequena quantia de dinheiro e é difícil em geral.</string>
     <string name="dialog_ffwd_title">Avanço rápido</string>
     <string name="dialog_ffwd_text">Gameplay rápida para %1$,d dias.</string>
     <string name="dialog_ffwd_cmdplayad">Anúncio em vídeo</string>
@@ -1330,33 +1330,33 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_rnk_supercluster_big_title">Big Supercluster</string>
     <string name="draft_rnk_supercluster_large_title">Large Supercluster</string>
 
-    <string name="ci_airport_title">Airport</string>
-    <string name="draft_wire01_title">Transmission line</string>
-    <string name="draft_wire01_text">Big wires for a lot of energy. For regional energy exchange.</string>
-    <string name="draft_transformator00_title">Transformer</string>
+    <string name="ci_airport_title">Aeroporto</string>
+    <string name="draft_wire01_title">Linha de transmissão</string>
+    <string name="draft_wire01_text">Fios grandes para muita energia. Para intercâmbio regional de energia.</string>
+    <string name="draft_transformator00_title">Transformador</string>
     <string name="draft_transformator00_text">A transformer is needed to transform between high and normal voltage. Build it near a transmission line.</string>
 
-    <string name="settings_showtouchpoints">Show touch points</string>
+    <string name="settings_showtouchpoints">Mostrar touch</string>
     <string name="shop_promotion_limited">Limited promotion</string>
-    <string name="shop_promotion_time">Only %s left</string>
-    <string name="airport_lane_rename">Rename</string>
-    <string name="airport_airplane_rename">Rename</string>
-    <string name="airport_lane_show">Show</string>
+    <string name="shop_promotion_time">Apenas %s restantes</string>
+    <string name="airport_lane_rename">Renomear</string>
+    <string name="airport_airplane_rename">Renomear</string>
+    <string name="airport_lane_show">Mostrar</string>
     <string name="airport_lane_assign">Assign</string>
-    <string name="airport_lane_assign_airplane">Add</string>
-    <string name="airport_lane_add">Add lane</string>
-    <string name="airport_airplanes">Airplanes</string>
+    <string name="airport_lane_assign_airplane">Adicionar</string>
+    <string name="airport_lane_add">Adicionar faixa</string>
+    <string name="airport_airplanes">Aviões</string>
     <string name="airport_virtual_lane">Not assigned yet</string>
     <string name="airport_lane_no_airplane">No airplane set</string>
-    <string name="topic_lightside">Come to the light side, we have icecream</string>
-    <string name="topic_handmade">Every pixel is made by hand</string>
+    <string name="topic_lightside">Venha ao lado da luz, temos sorvete!</string>
+    <string name="topic_handmade">Cada pixel é feita a mão</string>
     <string name="topic_lunch">Build from here till lunch</string>
-    <string name="topic_watching">Lobby is watching you</string>
-    <string name="topic_code">Now with 5% more code!</string>
+    <string name="topic_watching">Lobby observa você</string>
+    <string name="topic_code">Agora com mais 5% de código!</string>
     <string name="topic_banana">Banana</string>
     <string name="topic_finish">Let\'s finish this sen</string>
-    <string name="topic_threed">"Just make it 3D"</string>
-    <string name="topic_work">May contain traces of hard work</string>
-    <string name="topic_funfun">Now with fun</string>
+    <string name="topic_threed">"Pfv faça em 3D"</string>
+    <string name="topic_work">Talvez contenha um trabalho pesado</string>
+    <string name="topic_funfun">Agora divertido</string>
 
 </resources>
